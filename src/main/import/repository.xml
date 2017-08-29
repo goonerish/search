@@ -5,7 +5,13 @@
               j:modulePriority="0"
               j:moduleType="module"
               j:title="Jahia Search"
+              jcr:mixinTypes="jmix:hasExternalProviderExtension"
               jcr:primaryType="jnt:module">
+                <sources jcr:mixinTypes="jmix:hasExternalProviderExtension jmix:sourceControl"
+                  jcr:primaryType="jnt:moduleVersionFolder"
+                  j:staticMountPointProviderKey="module-search-7.2.3-SNAPSHOT">
+                    <pom.xml jcr:mixinTypes="jmix:sourceControl" jcr:primaryType="jnt:xmlFile"/>
+                </sources>
                 
                 <portlets jcr:primaryType="jnt:portletFolder"/>
                 <files jcr:primaryType="jnt:folder"/>
