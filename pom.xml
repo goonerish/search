@@ -60,7 +60,7 @@
   <scm>
     <connection>scm:git:git@github.com:goonerish/search.git</connection>
     <developerConnection>scm:git:git@github.com:goonerish/search.git</developerConnection>
-    <url>scm:git:git@github.com:goonerish/search.git</url>
+    <url>scm:git:git@github.com:Jahia/search.git</url>
   </scm>
   <properties>
     <jahia.modules.importPackage>org.jahia.defaults.config.spring,
