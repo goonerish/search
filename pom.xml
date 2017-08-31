@@ -64,8 +64,8 @@
   </scm-->
   
   <scm> 
-    <connection>scm:svn:http://localhost:8080/svn_web_jahia/web_jahia/MOD_JAHIA_USERREGISTRATION/trunk</connection> 
-    <developerConnection>scm:svn:http://localhost:8080/svn_web_jahia/web_jahia/MOD_JAHIA_USERREGISTRATION/trunk</developerConnection>
+    <connection>scm:svn:http://localhost:8080/svn_web_jahia/web_jahia/MOD_JAHIA_SEARCH/trunk</connection> 
+    <developerConnection>scm:svn:http://localhost:8080/svn_web_jahia/web_jahia/MOD_JAHIA_SEARCH/trunk</developerConnection>
   </scm> 
   
   <properties>
