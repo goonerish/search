@@ -57,10 +57,10 @@
   <packaging>bundle</packaging>
   <name>Jahia Search</name>
   <description>Jahia template module for using simple and advanced content search features.</description>
-  <scm>
-    <connection>scm:git:git@github.com:goonerish/search.git</connection>
-    <developerConnection>scm:git:git@github.com:goonerish/search.git</developerConnection>
-  </scm>
+<scm> 
+    <connection>scm:svn:http://localhost:8080/svn_web_jahia/web_jahia/MOD_JAHIA_USERREGISTRATION/trunk</connection> 
+    <developerConnection>scm:svn:http://localhost:8080/svn_web_jahia/web_jahia/MOD_JAHIA_USERREGISTRATION/trunk</developerConnection>
+  </scm> 
   <properties>
     <jahia.modules.importPackage>org.jahia.defaults.config.spring,
             org.jahia.exceptions,
